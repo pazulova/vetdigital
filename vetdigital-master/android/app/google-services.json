@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611426911388",
+    "project_id": "vet-digital",
+    "storage_bucket": "vet-digital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611426911388:android:eea3e24b8adb1f26d25959",
+        "android_client_info": {
+          "package_name": "com.vetdigital.vetdigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611426911388-pj75pso00lhfpvfdaf896b264on1c0cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK7wfsPIHOqJnJSKSFQDze5SsGp482QtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611426911388-pj75pso00lhfpvfdaf896b264on1c0cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

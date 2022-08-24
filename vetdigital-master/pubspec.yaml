@@ -1,0 +1,74 @@
+name: vetdigital
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+ 
+  # CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+ #State managment
+  flutter_bloc: ^8.0.1
+
+
+  # di
+  get_it: ^7.2.0
+
+  # Functional programming in Dart
+  dartz: ^0.10.1
+
+  # Equality Comparisons
+  equatable: ^2.0.3
+
+  # Fonts
+  google_fonts: ^3.0.1
+  
+
+  # Firebase
+  firebase_core: ^1.19.1
+  cloud_firestore: ^3.2.1
+  firebase_auth: ^3.4.1
+  firebase_storage: ^10.3.1
+
+  # Sign in
+  google_sign_in: ^5.3.3
+  go_router: ^4.1.0
+  flutter_svg: ^1.1.1+1
+  dart_code_metrics: ^4.16.0
+  url_launcher: ^6.1.5
+  whatsapp_unilink: ^2.0.1+1
+  flutter_screenutil: ^5.5.3+2
+
+  # cstatic analysis
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+ 
+  flutter_lints: ^2.0.0
+
+
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/fonts/google_fonts_poppins/
+
+      
+
